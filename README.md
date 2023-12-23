@@ -1,2 +1,2 @@
 # ScreenShot
-![Descrição da Imagem](img2.png)
+![Descrição da Imagem](img.png)
